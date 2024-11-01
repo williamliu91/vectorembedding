@@ -1,0 +1,2 @@
+langchain_groq==0.2.1
+numpy==2.1.2
